@@ -5,3 +5,14 @@ div{
 .home-link a{
     text-decoration: none;
 }
+body{
+    background-color: rgb(179, 132, 75);
+}
+
+.main-header{
+    border: 2px solid red;
+    text-align: center;
+    font-size: 72px;
+    padding:20px;
+    background-color: bisque;
+}
