@@ -16,3 +16,21 @@ body{
     padding:20px;
     background-color: bisque;
 }
+
+.uolist{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+.uolist li{
+    list-style: none;
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+li a{
+    text-decoration: none;
+}
