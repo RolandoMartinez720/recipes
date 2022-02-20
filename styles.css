@@ -35,19 +35,17 @@ body{
 
 .container{
     display: flex;
-    justify-content: center;
-    align-items: center;
-    text-decoration: none;
+    padding: 5px;
+    gap:10px;
 }
 
-.container div{
-    list-style: none;
+.container a{
     text-align: center;
     font-weight: bold;
-font-family: 'Times New Roman', Times, serif;    padding: 20px;
-    padding-left: 40px;
-    border: 3px solid rgb(100, 28, 28);
-    padding-right: 40px;
+    padding:20px 0px 20px 0px;
+    font-family: 'Times New Roman', Times, serif;    
+    border: 3px solid #cc8706bb;
+    background-color: bisque;
     flex: 1;
 }
 
